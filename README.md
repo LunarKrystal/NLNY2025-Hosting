@@ -1,11 +1,11 @@
-### Hello everyone, thank you for visiting my Github!!! 👋
+# Hello everyone, thank you for visiting my Github!!! 👋
 ## File chạy trên hosting đã được chuyển sang repository riêng! mọi người hãy sử dụng repository này để tránh lỗi
 - Đây là bản sửa lại của file anh Vtuan share. Được fix lại giúp mọi người có thể chạy ở phiên bản node > v20.x cũng như đã thêm sẵn fca để mọi người tiện dùng hơn
-# Điểm khác biệt so với [phiên bản còn lại](https://github.com/LunarKrystal/Niio-Lunar-New-Year-2025):
+## Điểm khác biệt so với [phiên bản còn lại](https://github.com/LunarKrystal/Niio-Lunar-New-Year-2025):
 - Không sử dụng ```fca-horizon-remastered```
 - Có dung lượng nhẹ hơn để chạy hosting (do đã xoá pack cần thiết để chạy fca hzi)
 - ...
-# 📝 Note
+## 📝 Note
 - nếu báo lỗi ```punycode``` hoặc lỗi fca thì hãy kệ nó vì nó không ảnh hưởng đến file bạn :D
 ## Thank to Vũ Văn Tuấn (code), Lương Trường Khôi (fix)
 ## I'm [Krystal](https://www.facebook.com/Khoi.Meta) 👋
