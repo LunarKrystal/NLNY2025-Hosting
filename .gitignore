@@ -1,0 +1,5 @@
+node_modules
+FastConfigFca.json
+fca_setting.json
+package-lock.json
+includes/data.sqlite
